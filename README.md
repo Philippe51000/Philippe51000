@@ -31,4 +31,10 @@ Auteur de la suite **F4MAK Software**
 - Passion : Radioamateurisme, développement logiciel & automatisation  
 - Suite logicielle : **F4MAK Software**  
 
-![Logo F4MAK](logo_f4mak.png)
+---
+
+<p align="center">
+  <img src="logo_f4mak.png" alt="Logo F4MAK" width="200"/>
+  <br>
+  📡 F4MAK Software — Radioamateur
+</p>

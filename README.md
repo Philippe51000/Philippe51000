@@ -1,5 +1,7 @@
-<!-- Bannière -->
-![F4MAK Software](banner.png)
+<!-- Bannière réduite et centrée -->
+<p align="center">
+  <img src="banner.png" alt="F4MAK Software Banner" width="600"/>
+</p>
 
 # 👋 Philippe (F4MAK)
 
@@ -33,6 +35,7 @@ Auteur de la suite **F4MAK Software**
 
 ---
 
+<!-- Logo réduit et centré -->
 <p align="center">
   <img src="logo_f4mak.png" alt="Logo F4MAK" width="200"/>
   <br>
